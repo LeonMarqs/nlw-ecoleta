@@ -29,6 +29,7 @@ Aplicação cujo objetivo é cadastrar pontos de coletas de resíduos recicláve
 ### Running
 
 * <strong>Server</strong>
+
   Sempre deixe o server rodando para a aplicação funcionar corretamente.
   ```
   $ npm run dev
