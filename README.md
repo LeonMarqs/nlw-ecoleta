@@ -10,22 +10,26 @@ Aplicação cujo objetivo é cadastrar pontos de coletas de resíduos recicláve
 
 ## Getting Started
 
+### Built With
+* [NodeJS](https://nodejs.org/en/download/)
+* [ReactJS](https://github.com/facebook/react)
+* [React-Native](https://github.com/facebook/react-native)
+* [Sqlite](https://www.sqlite.org/index.html)
+* [Expo](https://expo.io/learn)
+
 ### Clone
 * Clone esse projeto em sua máquina através do comando:
   ```
   $ git clone https://github.com/LeonMarqs/nlw-ecoleta.git
   ```
 
-### Built With
-* NodeJS
-* ReactJS
-* React-Native
-* Sqlite
-* Expo
+### Other Dependences
+* As outras dependências estão no arquivo `package.json` de cada pasta, instale-as em sua máquina antes de rodar a aplicação.
 
 ### Running
 
 * <strong>Server</strong>
+  Sempre deixe o server rodando para a aplicação funcionar corretamente.
   ```
   $ npm run dev
   ```
@@ -40,6 +44,6 @@ Aplicação cujo objetivo é cadastrar pontos de coletas de resíduos recicláve
   $ npm start
   ```
 
-### Other Dependences
-* As outras dependências estão no arquivo `package.json` de cada pasta.
+<hr>
+
 
