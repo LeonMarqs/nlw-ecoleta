@@ -5,7 +5,7 @@ Aplicação cujo objetivo é cadastrar pontos de coletas de resíduos recicláve
 </p>
 
 <p align="center">
-<img src="https://imgur.com/NPqvbOz.png" width="350">
+<img src="https://imgur.com/NPqvbOz.png" width="500">
 </p>
 
 ## Getting Started
@@ -21,20 +21,21 @@ Aplicação cujo objetivo é cadastrar pontos de coletas de resíduos recicláve
 * ReactJS
 * React-Native
 * Sqlite
+* Expo
 
 ### Running
 
-* Server
+* <strong>Server</strong>
   ```
   $ npm run dev
   ```
 
-* Web
+* <strong>Web</strong>
   ```
   $ npm start
   ```
 
-* Mobile
+* <strong>Mobile</strong>
   ```
   $ npm start
   ```
